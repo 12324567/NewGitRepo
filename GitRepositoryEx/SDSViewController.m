@@ -28,4 +28,7 @@
 -(void)showText:(NSString*)string{
     NSLog(@"%@",string);
 }
+-(void)showDiscard{
+    NSLog(@"%@",@"showDiscard");
+}
 @end
